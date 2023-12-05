@@ -1,6 +1,5 @@
 # Finn Recipes
-A site with recipes made for The Odin Project
-Site : https://owlfinn.github.io/learn-recipes
+A site with recipes made for The Odin Project | Site : https://owlfinn.github.io/learn-recipes
 
 ### Recipes used
 
